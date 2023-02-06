@@ -1,2 +1,2 @@
-# kaggle
+# Kaggle
 Competions on kaggle.com
