@@ -1,6 +1,5 @@
-# Яндекс.Практикум
-<img src="https://komarev.com/ghpvc/?username=your-github-Nanobelka&style=flat-square&color=grey" alt=""/>
-Проекты в рамках обучения на курсах "Аналитик данных" и "Data Science"
+# Kaggle
+Competions on kaggle.com
 
 | Название проекта      | Описание              | Инструменты и навыки      |
 |:----------------------|:----------------------|:--------------------------|
