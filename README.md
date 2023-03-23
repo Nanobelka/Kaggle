@@ -6,7 +6,7 @@ Competions on kaggle.com
 | [IceCube – исследовательский анализ для проекта определения траектории нейтрино](https://github.com/Nanobelka/Kaggle/tree/main/IceCube) | Задача основного проекта – определить траекторию нейтрино, зафиксированного детектором IceCube. Это – исследовательский анализ предоставленных данных. | `Python`, `Pandas`, `Seaborn`, детектор нейтрино |
 
 
-**Competition notebook `Spaceship Titanic` coming soon:**  
+**Competition notebook [Spaceship Titanic](https://www.kaggle.com/c/spaceship-titanic) coming soon:**  
 exploration analysis, data preparation, model comparison, final model selection
 
 130_th place out of about 2.5K participants in the "Spaceship Titanic" machine learning competition.
