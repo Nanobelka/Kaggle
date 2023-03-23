@@ -1,4 +1,4 @@
-# [Исследовательский анализ для проекта IceCube](https://github.com/Nanobelka/Kaggle/blob/main/IceCube/IceCube_1_EDA.ipynb)
+# [Исследовательский анализ для проекта IceCube](https://nbviewer.jupyter.org/github/Nanobelka/Kaggle/blob/main/IceCube/IceCube_1_EDA.ipynb)
 ## По данным, предоставленным нейтринной обсерваторией IceCube, определить траектории нейтрино.
 
 [Соревнование на Kaggle](https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice/)
