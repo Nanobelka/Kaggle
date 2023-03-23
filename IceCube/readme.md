@@ -2,18 +2,17 @@
 ## Determine neutrino trajectories based on data provided by the IceCube neutrino observatory.
 
 [Competition on Kaggle](https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice/)
+[Notebook on Kaggle](https://www.kaggle.com/code/nanobelka70spb/icecube-1-eda)
 
-**initiator:** [IceCube neutrino observatory](https://icecube.wisc.edu/).
+**Initiator:** [IceCube neutrino observatory](https://icecube.wisc.edu/).
 
 **Input data:**
-
 - pulses recorded by photomultipliers (sensors);
 - events in which impulses are grouped;
 - data about the physical coordinates of the sensors.
 
-**Project goal:** preliminary data analysis.
-
-**Project objectives:**
-
-- understand the principles and details of the formation of input data (the input description is practically absent);
-- identification of possible directions for in-depth analysis (full elaboration is not necessary, the main thing is to fix the idea for further study).
+**Purpose**:
+- understand the physical process;
+- understand the essence of the input data and their correspondence to the physical process;
+- identify as more different areas for analysis as possible, then to choose the most useful ones;
+- make an assumption about the principle of model creating for trajectory determination.
