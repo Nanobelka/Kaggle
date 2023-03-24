@@ -1,6 +1,5 @@
 ![kaggle](https://github.com/Nanobelka/Kaggle/blob/main/images/kaggle_logo.jpg)
 
-# Kaggle
 Competions on kaggle.com
 
 | Название проекта      | Описание              | Инструменты и навыки      |
